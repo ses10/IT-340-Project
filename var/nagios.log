@@ -382,3 +382,35 @@
 [1477846167] wproc: Registry request: name=Core Worker 1502;pid=1502
 [1477846167] wproc: Registry request: name=Core Worker 1500;pid=1500
 [1477846167] Successfully launched command file worker with pid 1521
+[1477849067] Caught SIGHUP, restarting...
+[1477849067] Event broker module 'NERD' deinitialized successfully.
+[1477849067] Nagios 4.2.1 starting... (PID=1435)
+[1477849067] Local time is Sun Oct 30 13:37:47 EDT 2016
+[1477849067] LOG VERSION: 2.0
+[1477849067] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477849067] qh: core query handler registered
+[1477849067] nerd: Channel hostchecks registered successfully
+[1477849067] nerd: Channel servicechecks registered successfully
+[1477849067] nerd: Channel opathchecks registered successfully
+[1477849067] nerd: Fully initialized and ready to rock!
+[1477849067] wproc: Successfully registered manager as @wproc with query handler
+[1477849067] wproc: Registry request: name=Core Worker 7086;pid=7086
+[1477849067] wproc: Registry request: name=Core Worker 7087;pid=7087
+[1477849067] wproc: Registry request: name=Core Worker 7089;pid=7089
+[1477849067] wproc: Registry request: name=Core Worker 7088;pid=7088
+[1477849174] Caught SIGHUP, restarting...
+[1477849174] Event broker module 'NERD' deinitialized successfully.
+[1477849174] Nagios 4.2.1 starting... (PID=1435)
+[1477849174] Local time is Sun Oct 30 13:39:34 EDT 2016
+[1477849174] LOG VERSION: 2.0
+[1477849174] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477849174] qh: core query handler registered
+[1477849174] nerd: Channel hostchecks registered successfully
+[1477849174] nerd: Channel servicechecks registered successfully
+[1477849174] nerd: Channel opathchecks registered successfully
+[1477849174] nerd: Fully initialized and ready to rock!
+[1477849174] wproc: Successfully registered manager as @wproc with query handler
+[1477849174] wproc: Registry request: name=Core Worker 7296;pid=7296
+[1477849174] wproc: Registry request: name=Core Worker 7297;pid=7297
+[1477849174] wproc: Registry request: name=Core Worker 7298;pid=7298
+[1477849174] wproc: Registry request: name=Core Worker 7299;pid=7299

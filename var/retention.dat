@@ -5,9 +5,9 @@
 # BY NAGIOS.  DO NOT MODIFY THIS FILE!
 ########################################
 info {
-created=1477791419
+created=1477849174
 version=4.2.1
-last_update_check=1477686981
+last_update_check=1477849067
 update_available=1
 update_uid=1476119548
 last_version=4.2.1
@@ -44,7 +44,7 @@ check_period=24x7
 notification_period=workhours
 event_handler=
 has_been_checked=1
-check_execution_time=4.010
+check_execution_time=4.110
 check_latency=0.000
 check_type=0
 current_state=0
@@ -54,11 +54,11 @@ last_event_id=0
 current_event_id=0
 current_problem_id=0
 last_problem_id=0
-plugin_output=PING OK - Packet loss = 0%, RTA = 0.06 ms
+plugin_output=PING OK - Packet loss = 0%, RTA = 0.08 ms
 long_plugin_output=
-performance_data=rta=0.061000ms;3000.000000;5000.000000;0.000000 pl=0%;80;100;0
-last_check=1477791181
-next_check=1477791485
+performance_data=rta=0.078000ms;3000.000000;5000.000000;0.000000 pl=0%;80;100;0
+last_check=1477848903
+next_check=1477849208
 check_options=0
 current_attempt=1
 max_attempts=10
@@ -67,7 +67,7 @@ retry_check_interval=5.000000
 state_type=1
 last_state_change=1477778182
 last_hard_state_change=1477778182
-last_time_up=1477791185
+last_time_up=1477848908
 last_time_down=0
 last_time_unreachable=0
 notified_on_down=0
@@ -115,15 +115,15 @@ retry_check_interval=1.000000
 state_type=1
 last_state_change=1477790519
 last_hard_state_change=1477790519
-last_time_ok=1477791119
+last_time_ok=1477848967
 last_time_warning=0
 last_time_unknown=0
 last_time_critical=0
-plugin_output=OK - load average: 0.18, 0.32, 0.37
+plugin_output=OK - load average: 0.20, 0.14, 0.21
 long_plugin_output=
-performance_data=load1=0.180;5.000;10.000;0; load5=0.320;4.000;6.000;0; load15=0.370;3.000;4.000;0;
-last_check=1477791119
-next_check=1477791419
+performance_data=load1=0.200;5.000;10.000;0; load5=0.140;4.000;6.000;0; load15=0.210;3.000;4.000;0;
+last_check=1477848967
+next_check=1477849267
 check_options=0
 notified_on_unknown=0
 notified_on_warning=0
@@ -147,6 +147,62 @@ state_history=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 }
 service {
 host_name=web-server
+service_description=HTTP
+modified_attributes=0
+check_command=check_http
+check_period=24x7
+notification_period=24x7
+event_handler=
+has_been_checked=1
+check_execution_time=0.168
+check_latency=0.000
+check_type=0
+current_state=0
+last_state=0
+last_hard_state=0
+last_event_id=0
+current_event_id=0
+current_problem_id=0
+last_problem_id=0
+current_attempt=1
+max_attempts=4
+normal_check_interval=5.000000
+retry_check_interval=1.000000
+state_type=1
+last_state_change=1477849142
+last_hard_state_change=1477849142
+last_time_ok=1477849142
+last_time_warning=0
+last_time_unknown=0
+last_time_critical=0
+plugin_output=HTTP OK: HTTP/1.0 200 OK - 11144 bytes in 0.165 second response time
+long_plugin_output=
+performance_data=time=0.164634s;;;0.000000 size=11144B;;;0
+last_check=1477849142
+next_check=1477849442
+check_options=0
+notified_on_unknown=0
+notified_on_warning=0
+notified_on_critical=0
+current_notification_number=0
+current_notification_id=0
+last_notification=0
+notifications_enabled=0
+active_checks_enabled=1
+passive_checks_enabled=1
+event_handler_enabled=1
+problem_has_been_acknowledged=0
+acknowledgement_type=0
+flap_detection_enabled=1
+process_performance_data=1
+obsess=1
+is_flapping=0
+percent_state_change=0.00
+check_flapping_recovery_notification=0
+state_history=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+}
+service {
+host_name=web-server
 service_description=Hard Drive Capacity
 modified_attributes=0
 check_command=check_local_disk!25%!15%!/
@@ -154,7 +210,7 @@ check_period=24x7
 notification_period=24x7
 event_handler=
 has_been_checked=1
-check_execution_time=0.003
+check_execution_time=0.005
 check_latency=0.000
 check_type=0
 current_state=0
@@ -171,15 +227,15 @@ retry_check_interval=1.000000
 state_type=1
 last_state_change=1477790022
 last_hard_state_change=1477790022
-last_time_ok=1477791222
+last_time_ok=1477848767
 last_time_warning=0
 last_time_unknown=0
 last_time_critical=0
-plugin_output=DISK OK - free space: / 25640 MB (84% inode=99%):
+plugin_output=DISK OK - free space: / 25517 MB (83% inode=99%):
 long_plugin_output=
-performance_data=/=4836MB;22857;25905;0;30477
-last_check=1477791222
-next_check=1477791522
+performance_data=/=4959MB;22857;25905;0;30477
+last_check=1477848767
+next_check=1477849217
 check_options=0
 notified_on_unknown=0
 notified_on_warning=0
@@ -210,7 +266,7 @@ check_period=24x7
 notification_period=24x7
 event_handler=
 has_been_checked=1
-check_execution_time=4.011
+check_execution_time=4.015
 check_latency=0.000
 check_type=0
 current_state=0
@@ -227,15 +283,15 @@ retry_check_interval=1.000000
 state_type=1
 last_state_change=1477791149
 last_hard_state_change=1477791149
-last_time_ok=1477791149
+last_time_ok=1477849164
 last_time_warning=0
 last_time_unknown=0
 last_time_critical=0
-plugin_output=PING OK - Packet loss = 0%, RTA = 0.09 ms
+plugin_output=PING OK - Packet loss = 0%, RTA = 0.08 ms
 long_plugin_output=
-performance_data=rta=0.089000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
-last_check=1477791149
-next_check=1477791449
+performance_data=rta=0.075000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+last_check=1477849164
+next_check=1477849464
 check_options=0
 notified_on_unknown=0
 notified_on_warning=0
