@@ -1,0 +1,384 @@
+[1476119548] Nagios 4.2.1 starting... (PID=26575)
+[1476119548] Local time is Mon Oct 10 13:12:28 EDT 2016
+[1476119548] LOG VERSION: 2.0
+[1476119548] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1476119548] qh: core query handler registered
+[1476119548] nerd: Channel hostchecks registered successfully
+[1476119548] nerd: Channel servicechecks registered successfully
+[1476119548] nerd: Channel opathchecks registered successfully
+[1476119548] nerd: Fully initialized and ready to rock!
+[1476119548] wproc: Successfully registered manager as @wproc with query handler
+[1476119548] wproc: Registry request: name=Core Worker 26581;pid=26581
+[1476119548] wproc: Registry request: name=Core Worker 26582;pid=26582
+[1476119548] wproc: Registry request: name=Core Worker 26583;pid=26583
+[1476119548] wproc: Registry request: name=Core Worker 26584;pid=26584
+[1476119549] Successfully launched command file worker with pid 26601
+[1476119660] SERVICE ALERT: localhost;HTTP;WARNING;SOFT;1;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.005 second response time
+[1477686511] Warning: A system time change of 1566794 seconds (18d 3h 13m 14s forwards in time) has been detected.  Compensating...
+[1477686514] SERVICE ALERT: localhost;HTTP;WARNING;SOFT;2;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.003 second response time
+[1477686574] SERVICE ALERT: localhost;HTTP;WARNING;SOFT;3;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.001 second response time
+[1477686634] SERVICE ALERT: localhost;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.002 second response time
+[1477686980] Caught SIGTERM, shutting down...
+[1477686980] Successfully shutdown... (PID=26575)
+[1477686980] Event broker module 'NERD' deinitialized successfully.
+[1477686981] Nagios 4.2.1 starting... (PID=28018)
+[1477686981] Local time is Fri Oct 28 16:36:21 EDT 2016
+[1477686981] LOG VERSION: 2.0
+[1477686981] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477686981] qh: core query handler registered
+[1477686981] nerd: Channel hostchecks registered successfully
+[1477686981] nerd: Channel servicechecks registered successfully
+[1477686981] nerd: Channel opathchecks registered successfully
+[1477686981] nerd: Fully initialized and ready to rock!
+[1477686981] wproc: Successfully registered manager as @wproc with query handler
+[1477686981] wproc: Registry request: name=Core Worker 28021;pid=28021
+[1477686981] wproc: Registry request: name=Core Worker 28022;pid=28022
+[1477686981] wproc: Registry request: name=Core Worker 28023;pid=28023
+[1477686981] wproc: Registry request: name=Core Worker 28020;pid=28020
+[1477686981] Successfully launched command file worker with pid 28066
+[1477686986] Caught SIGTERM, shutting down...
+[1477686986] Successfully shutdown... (PID=28018)
+[1477686986] Event broker module 'NERD' deinitialized successfully.
+[1477686991] Nagios 4.2.1 starting... (PID=28386)
+[1477686991] Local time is Fri Oct 28 16:36:31 EDT 2016
+[1477686991] LOG VERSION: 2.0
+[1477686991] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477686991] qh: core query handler registered
+[1477686991] nerd: Channel hostchecks registered successfully
+[1477686991] nerd: Channel servicechecks registered successfully
+[1477686991] nerd: Channel opathchecks registered successfully
+[1477686991] nerd: Fully initialized and ready to rock!
+[1477686991] wproc: Successfully registered manager as @wproc with query handler
+[1477686991] wproc: Registry request: name=Core Worker 28390;pid=28390
+[1477686991] wproc: Registry request: name=Core Worker 28391;pid=28391
+[1477686991] wproc: Registry request: name=Core Worker 28393;pid=28393
+[1477686991] wproc: Registry request: name=Core Worker 28392;pid=28392
+[1477686991] Successfully launched command file worker with pid 28398
+[1477687245] Caught SIGTERM, shutting down...
+[1477687245] Successfully shutdown... (PID=28386)
+[1477687245] Event broker module 'NERD' deinitialized successfully.
+[1477687264] Nagios 4.2.1 starting... (PID=29241)
+[1477687264] Local time is Fri Oct 28 16:41:04 EDT 2016
+[1477687264] LOG VERSION: 2.0
+[1477687264] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477687264] qh: core query handler registered
+[1477687264] nerd: Channel hostchecks registered successfully
+[1477687264] nerd: Channel servicechecks registered successfully
+[1477687264] nerd: Channel opathchecks registered successfully
+[1477687264] nerd: Fully initialized and ready to rock!
+[1477687264] wproc: Successfully registered manager as @wproc with query handler
+[1477687264] wproc: Registry request: name=Core Worker 29243;pid=29243
+[1477687264] wproc: Registry request: name=Core Worker 29244;pid=29244
+[1477687264] wproc: Registry request: name=Core Worker 29245;pid=29245
+[1477687264] wproc: Registry request: name=Core Worker 29246;pid=29246
+[1477687264] Successfully launched command file worker with pid 29253
+[1477687436] Caught SIGTERM, shutting down...
+[1477687436] Successfully shutdown... (PID=29241)
+[1477687436] Event broker module 'NERD' deinitialized successfully.
+[1477687436] Nagios 4.2.1 starting... (PID=29478)
+[1477687436] Local time is Fri Oct 28 16:43:56 EDT 2016
+[1477687436] LOG VERSION: 2.0
+[1477687436] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477687436] qh: core query handler registered
+[1477687436] nerd: Channel hostchecks registered successfully
+[1477687436] nerd: Channel servicechecks registered successfully
+[1477687436] nerd: Channel opathchecks registered successfully
+[1477687436] nerd: Fully initialized and ready to rock!
+[1477687436] wproc: Successfully registered manager as @wproc with query handler
+[1477687436] wproc: Registry request: name=Core Worker 29480;pid=29480
+[1477687436] wproc: Registry request: name=Core Worker 29482;pid=29482
+[1477687436] wproc: Registry request: name=Core Worker 29481;pid=29481
+[1477687436] wproc: Registry request: name=Core Worker 29483;pid=29483
+[1477687436] Successfully launched command file worker with pid 29490
+[1477687478] Caught SIGTERM, shutting down...
+[1477687478] Successfully shutdown... (PID=29478)
+[1477687478] Event broker module 'NERD' deinitialized successfully.
+[1477687781] Nagios 4.2.1 starting... (PID=29903)
+[1477687781] Local time is Fri Oct 28 16:49:41 EDT 2016
+[1477687781] LOG VERSION: 2.0
+[1477687781] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477687781] qh: core query handler registered
+[1477687781] nerd: Channel hostchecks registered successfully
+[1477687781] nerd: Channel servicechecks registered successfully
+[1477687781] nerd: Channel opathchecks registered successfully
+[1477687781] nerd: Fully initialized and ready to rock!
+[1477687781] wproc: Successfully registered manager as @wproc with query handler
+[1477687781] wproc: Registry request: name=Core Worker 29905;pid=29905
+[1477687781] wproc: Registry request: name=Core Worker 29906;pid=29906
+[1477687781] wproc: Registry request: name=Core Worker 29908;pid=29908
+[1477687781] wproc: Registry request: name=Core Worker 29907;pid=29907
+[1477687781] Successfully launched command file worker with pid 29916
+[1477688678] Caught SIGTERM, shutting down...
+[1477688678] Successfully shutdown... (PID=29903)
+[1477688678] Event broker module 'NERD' deinitialized successfully.
+[1477688678] Nagios 4.2.1 starting... (PID=30703)
+[1477688678] Local time is Fri Oct 28 17:04:38 EDT 2016
+[1477688678] LOG VERSION: 2.0
+[1477688678] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477688678] qh: core query handler registered
+[1477688678] nerd: Channel hostchecks registered successfully
+[1477688678] nerd: Channel servicechecks registered successfully
+[1477688678] nerd: Channel opathchecks registered successfully
+[1477688678] nerd: Fully initialized and ready to rock!
+[1477688678] wproc: Successfully registered manager as @wproc with query handler
+[1477688678] wproc: Registry request: name=Core Worker 30706;pid=30706
+[1477688678] wproc: Registry request: name=Core Worker 30707;pid=30707
+[1477688678] wproc: Registry request: name=Core Worker 30708;pid=30708
+[1477688678] wproc: Registry request: name=Core Worker 30709;pid=30709
+[1477688678] Successfully launched command file worker with pid 30714
+[1477690650] Caught SIGTERM, shutting down...
+[1477690650] Successfully shutdown... (PID=30703)
+[1477690650] Event broker module 'NERD' deinitialized successfully.
+[1477690651] Nagios 4.2.1 starting... (PID=32074)
+[1477690651] Local time is Fri Oct 28 17:37:31 EDT 2016
+[1477690651] LOG VERSION: 2.0
+[1477690651] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477690651] qh: core query handler registered
+[1477690651] nerd: Channel hostchecks registered successfully
+[1477690651] nerd: Channel servicechecks registered successfully
+[1477690651] nerd: Channel opathchecks registered successfully
+[1477690651] nerd: Fully initialized and ready to rock!
+[1477690651] wproc: Successfully registered manager as @wproc with query handler
+[1477690651] wproc: Registry request: name=Core Worker 32077;pid=32077
+[1477690651] wproc: Registry request: name=Core Worker 32078;pid=32078
+[1477690651] wproc: Registry request: name=Core Worker 32079;pid=32079
+[1477690651] wproc: Registry request: name=Core Worker 32080;pid=32080
+[1477690651] Successfully launched command file worker with pid 32084
+[1477690667] Caught SIGTERM, shutting down...
+[1477690667] Successfully shutdown... (PID=32074)
+[1477690667] Event broker module 'NERD' deinitialized successfully.
+[1477690679] Nagios 4.2.1 starting... (PID=32344)
+[1477690679] Local time is Fri Oct 28 17:37:59 EDT 2016
+[1477690679] LOG VERSION: 2.0
+[1477690679] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477690679] qh: core query handler registered
+[1477690679] nerd: Channel hostchecks registered successfully
+[1477690679] nerd: Channel servicechecks registered successfully
+[1477690679] nerd: Channel opathchecks registered successfully
+[1477690679] nerd: Fully initialized and ready to rock!
+[1477690679] wproc: Successfully registered manager as @wproc with query handler
+[1477690679] wproc: Registry request: name=Core Worker 32346;pid=32346
+[1477690679] wproc: Registry request: name=Core Worker 32348;pid=32348
+[1477690679] wproc: Registry request: name=Core Worker 32347;pid=32347
+[1477690679] wproc: Registry request: name=Core Worker 32349;pid=32349
+[1477690679] Successfully launched command file worker with pid 32357
+[1477691032] Caught SIGTERM, shutting down...
+[1477691032] Successfully shutdown... (PID=32344)
+[1477691032] Event broker module 'NERD' deinitialized successfully.
+[1477691032] Nagios 4.2.1 starting... (PID=32726)
+[1477691032] Local time is Fri Oct 28 17:43:52 EDT 2016
+[1477691032] LOG VERSION: 2.0
+[1477691032] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477691032] qh: core query handler registered
+[1477691032] nerd: Channel hostchecks registered successfully
+[1477691032] nerd: Channel servicechecks registered successfully
+[1477691032] nerd: Channel opathchecks registered successfully
+[1477691032] nerd: Fully initialized and ready to rock!
+[1477691032] wproc: Successfully registered manager as @wproc with query handler
+[1477691032] wproc: Registry request: name=Core Worker 32729;pid=32729
+[1477691032] wproc: Registry request: name=Core Worker 32730;pid=32730
+[1477691032] wproc: Registry request: name=Core Worker 32731;pid=32731
+[1477691032] wproc: Registry request: name=Core Worker 32732;pid=32732
+[1477691032] Successfully launched command file worker with pid 32737
+[1477692566] Caught SIGTERM, shutting down...
+[1477692566] Successfully shutdown... (PID=32726)
+[1477692566] Event broker module 'NERD' deinitialized successfully.
+[1477774663] Nagios 4.2.1 starting... (PID=1530)
+[1477774663] Local time is Sat Oct 29 16:57:43 EDT 2016
+[1477774663] LOG VERSION: 2.0
+[1477774663] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477774663] qh: core query handler registered
+[1477774663] nerd: Channel hostchecks registered successfully
+[1477774663] nerd: Channel servicechecks registered successfully
+[1477774663] nerd: Channel opathchecks registered successfully
+[1477774663] nerd: Fully initialized and ready to rock!
+[1477774663] wproc: Successfully registered manager as @wproc with query handler
+[1477774663] wproc: Registry request: name=Core Worker 1541;pid=1541
+[1477774663] wproc: Registry request: name=Core Worker 1540;pid=1540
+[1477774663] wproc: Registry request: name=Core Worker 1539;pid=1539
+[1477774663] wproc: Registry request: name=Core Worker 1538;pid=1538
+[1477774663] Successfully launched command file worker with pid 1553
+[1477777879] Caught SIGTERM, shutting down...
+[1477777879] Successfully shutdown... (PID=1530)
+[1477777879] Event broker module 'NERD' deinitialized successfully.
+[1477777880] Nagios 4.2.1 starting... (PID=6029)
+[1477777880] Local time is Sat Oct 29 17:51:20 EDT 2016
+[1477777880] LOG VERSION: 2.0
+[1477777880] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477777880] qh: core query handler registered
+[1477777880] nerd: Channel hostchecks registered successfully
+[1477777880] nerd: Channel servicechecks registered successfully
+[1477777880] nerd: Channel opathchecks registered successfully
+[1477777880] nerd: Fully initialized and ready to rock!
+[1477777880] wproc: Successfully registered manager as @wproc with query handler
+[1477777880] wproc: Registry request: name=Core Worker 6033;pid=6033
+[1477777880] wproc: Registry request: name=Core Worker 6031;pid=6031
+[1477777880] wproc: Registry request: name=Core Worker 6032;pid=6032
+[1477777880] wproc: Registry request: name=Core Worker 6034;pid=6034
+[1477777880] Successfully launched command file worker with pid 6042
+[1477777924] Caught SIGHUP, restarting...
+[1477777924] Event broker module 'NERD' deinitialized successfully.
+[1477777924] Nagios 4.2.1 starting... (PID=6029)
+[1477777924] Local time is Sat Oct 29 17:52:04 EDT 2016
+[1477777924] LOG VERSION: 2.0
+[1477777924] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477777924] qh: core query handler registered
+[1477777924] nerd: Channel hostchecks registered successfully
+[1477777924] nerd: Channel servicechecks registered successfully
+[1477777924] nerd: Channel opathchecks registered successfully
+[1477777924] nerd: Fully initialized and ready to rock!
+[1477777924] wproc: Successfully registered manager as @wproc with query handler
+[1477777924] wproc: Registry request: name=Core Worker 6175;pid=6175
+[1477777924] wproc: Registry request: name=Core Worker 6176;pid=6176
+[1477777924] wproc: Registry request: name=Core Worker 6174;pid=6174
+[1477777924] wproc: Registry request: name=Core Worker 6173;pid=6173
+[1477777992] SERVICE ALERT: web;HTTP;WARNING;SOFT;1;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.004 second response time
+[1477778052] SERVICE ALERT: web;HTTP;WARNING;SOFT;2;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.001 second response time
+[1477778107] Caught SIGHUP, restarting...
+[1477778107] Event broker module 'NERD' deinitialized successfully.
+[1477778107] Nagios 4.2.1 starting... (PID=6029)
+[1477778107] Local time is Sat Oct 29 17:55:07 EDT 2016
+[1477778107] LOG VERSION: 2.0
+[1477778107] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477778107] qh: core query handler registered
+[1477778107] nerd: Channel hostchecks registered successfully
+[1477778107] nerd: Channel servicechecks registered successfully
+[1477778107] nerd: Channel opathchecks registered successfully
+[1477778107] nerd: Fully initialized and ready to rock!
+[1477778107] wproc: Successfully registered manager as @wproc with query handler
+[1477778107] wproc: Registry request: name=Core Worker 6387;pid=6387
+[1477778107] wproc: Registry request: name=Core Worker 6388;pid=6388
+[1477778107] wproc: Registry request: name=Core Worker 6385;pid=6385
+[1477778107] wproc: Registry request: name=Core Worker 6386;pid=6386
+[1477778264] Caught SIGHUP, restarting...
+[1477778264] Event broker module 'NERD' deinitialized successfully.
+[1477778264] Nagios 4.2.1 starting... (PID=6029)
+[1477778264] Local time is Sat Oct 29 17:57:44 EDT 2016
+[1477778264] LOG VERSION: 2.0
+[1477778264] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477778264] qh: core query handler registered
+[1477778264] nerd: Channel hostchecks registered successfully
+[1477778264] nerd: Channel servicechecks registered successfully
+[1477778264] nerd: Channel opathchecks registered successfully
+[1477778264] nerd: Fully initialized and ready to rock!
+[1477778264] wproc: Successfully registered manager as @wproc with query handler
+[1477778264] wproc: Registry request: name=Core Worker 6582;pid=6582
+[1477778264] wproc: Registry request: name=Core Worker 6583;pid=6583
+[1477778264] wproc: Registry request: name=Core Worker 6581;pid=6581
+[1477778264] wproc: Registry request: name=Core Worker 6580;pid=6580
+[1477781863] Auto-save of retention data completed successfully.
+[1477785463] Auto-save of retention data completed successfully.
+[1477788861] Caught SIGHUP, restarting...
+[1477788861] Event broker module 'NERD' deinitialized successfully.
+[1477788861] Nagios 4.2.1 starting... (PID=6029)
+[1477788861] Local time is Sat Oct 29 20:54:21 EDT 2016
+[1477788861] LOG VERSION: 2.0
+[1477788861] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477788861] qh: core query handler registered
+[1477788861] nerd: Channel hostchecks registered successfully
+[1477788861] nerd: Channel servicechecks registered successfully
+[1477788861] nerd: Channel opathchecks registered successfully
+[1477788861] nerd: Fully initialized and ready to rock!
+[1477788861] wproc: Successfully registered manager as @wproc with query handler
+[1477788861] wproc: Registry request: name=Core Worker 11999;pid=11999
+[1477788861] wproc: Registry request: name=Core Worker 11998;pid=11998
+[1477788861] wproc: Registry request: name=Core Worker 11997;pid=11997
+[1477788861] wproc: Registry request: name=Core Worker 11996;pid=11996
+[1477789448] Caught SIGHUP, restarting...
+[1477789448] Event broker module 'NERD' deinitialized successfully.
+[1477789448] Nagios 4.2.1 starting... (PID=6029)
+[1477789448] Local time is Sat Oct 29 21:04:08 EDT 2016
+[1477789448] LOG VERSION: 2.0
+[1477789448] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477789448] qh: core query handler registered
+[1477789448] nerd: Channel hostchecks registered successfully
+[1477789448] nerd: Channel servicechecks registered successfully
+[1477789448] nerd: Channel opathchecks registered successfully
+[1477789448] nerd: Fully initialized and ready to rock!
+[1477789448] wproc: Successfully registered manager as @wproc with query handler
+[1477789448] wproc: Registry request: name=Core Worker 12730;pid=12730
+[1477789448] wproc: Registry request: name=Core Worker 12731;pid=12731
+[1477789448] wproc: Registry request: name=Core Worker 12732;pid=12732
+[1477789448] wproc: Registry request: name=Core Worker 12733;pid=12733
+[1477789722] Caught SIGHUP, restarting...
+[1477789722] Event broker module 'NERD' deinitialized successfully.
+[1477789722] Nagios 4.2.1 starting... (PID=6029)
+[1477789722] Local time is Sat Oct 29 21:08:42 EDT 2016
+[1477789722] LOG VERSION: 2.0
+[1477789722] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477789722] qh: core query handler registered
+[1477789722] nerd: Channel hostchecks registered successfully
+[1477789722] nerd: Channel servicechecks registered successfully
+[1477789722] nerd: Channel opathchecks registered successfully
+[1477789722] nerd: Fully initialized and ready to rock!
+[1477789722] wproc: Successfully registered manager as @wproc with query handler
+[1477789722] wproc: Registry request: name=Core Worker 12955;pid=12955
+[1477789722] wproc: Registry request: name=Core Worker 12957;pid=12957
+[1477789722] wproc: Registry request: name=Core Worker 12958;pid=12958
+[1477789722] wproc: Registry request: name=Core Worker 12956;pid=12956
+[1477790369] Caught SIGHUP, restarting...
+[1477790369] Event broker module 'NERD' deinitialized successfully.
+[1477790369] Nagios 4.2.1 starting... (PID=6029)
+[1477790369] Local time is Sat Oct 29 21:19:29 EDT 2016
+[1477790369] LOG VERSION: 2.0
+[1477790369] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477790369] qh: core query handler registered
+[1477790369] nerd: Channel hostchecks registered successfully
+[1477790369] nerd: Channel servicechecks registered successfully
+[1477790369] nerd: Channel opathchecks registered successfully
+[1477790369] nerd: Fully initialized and ready to rock!
+[1477790369] wproc: Successfully registered manager as @wproc with query handler
+[1477790369] wproc: Registry request: name=Core Worker 13578;pid=13578
+[1477790369] wproc: Registry request: name=Core Worker 13580;pid=13580
+[1477790369] wproc: Registry request: name=Core Worker 13581;pid=13581
+[1477790369] wproc: Registry request: name=Core Worker 13579;pid=13579
+[1477790807] Caught SIGHUP, restarting...
+[1477790807] Event broker module 'NERD' deinitialized successfully.
+[1477790807] Nagios 4.2.1 starting... (PID=6029)
+[1477790807] Local time is Sat Oct 29 21:26:47 EDT 2016
+[1477790807] LOG VERSION: 2.0
+[1477790807] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477790807] qh: core query handler registered
+[1477790807] nerd: Channel hostchecks registered successfully
+[1477790807] nerd: Channel servicechecks registered successfully
+[1477790807] nerd: Channel opathchecks registered successfully
+[1477790807] nerd: Fully initialized and ready to rock!
+[1477790807] wproc: Successfully registered manager as @wproc with query handler
+[1477790807] wproc: Registry request: name=Core Worker 13964;pid=13964
+[1477790807] wproc: Registry request: name=Core Worker 13962;pid=13962
+[1477790807] wproc: Registry request: name=Core Worker 13965;pid=13965
+[1477790807] wproc: Registry request: name=Core Worker 13963;pid=13963
+[1477791049] Caught SIGHUP, restarting...
+[1477791049] Event broker module 'NERD' deinitialized successfully.
+[1477791049] Nagios 4.2.1 starting... (PID=6029)
+[1477791049] Local time is Sat Oct 29 21:30:49 EDT 2016
+[1477791049] LOG VERSION: 2.0
+[1477791049] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477791049] qh: core query handler registered
+[1477791049] nerd: Channel hostchecks registered successfully
+[1477791049] nerd: Channel servicechecks registered successfully
+[1477791049] nerd: Channel opathchecks registered successfully
+[1477791049] nerd: Fully initialized and ready to rock!
+[1477791049] wproc: Successfully registered manager as @wproc with query handler
+[1477791049] wproc: Registry request: name=Core Worker 14341;pid=14341
+[1477791049] wproc: Registry request: name=Core Worker 14337;pid=14337
+[1477791049] wproc: Registry request: name=Core Worker 14340;pid=14340
+[1477791049] wproc: Registry request: name=Core Worker 14338;pid=14338
+[1477791419] Caught SIGTERM, shutting down...
+[1477791419] Successfully shutdown... (PID=6029)
+[1477791419] Event broker module 'NERD' deinitialized successfully.
+[1477846167] Nagios 4.2.1 starting... (PID=1435)
+[1477846167] Local time is Sun Oct 30 12:49:27 EDT 2016
+[1477846167] LOG VERSION: 2.0
+[1477846167] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1477846167] qh: core query handler registered
+[1477846167] nerd: Channel hostchecks registered successfully
+[1477846167] nerd: Channel servicechecks registered successfully
+[1477846167] nerd: Channel opathchecks registered successfully
+[1477846167] nerd: Fully initialized and ready to rock!
+[1477846167] wproc: Successfully registered manager as @wproc with query handler
+[1477846167] wproc: Registry request: name=Core Worker 1501;pid=1501
+[1477846167] wproc: Registry request: name=Core Worker 1503;pid=1503
+[1477846167] wproc: Registry request: name=Core Worker 1502;pid=1502
+[1477846167] wproc: Registry request: name=Core Worker 1500;pid=1500
+[1477846167] Successfully launched command file worker with pid 1521
